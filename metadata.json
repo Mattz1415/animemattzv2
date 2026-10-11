@@ -1,0 +1,6 @@
+{
+  "name": "SankaVerse - Cyberpunk Anime & Comic Nexus",
+  "description": "Production-grade streaming and comic reading hub integrated with Sanka Vollerei API featuring anime, donghua, manga, Desustream player, and offline library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
